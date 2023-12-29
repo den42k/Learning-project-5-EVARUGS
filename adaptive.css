@@ -55,6 +55,10 @@
         font-size: 1.8rem;
     }
 
+    br {
+        display: initial;
+    }
+
     .card {
         display: grid;
         grid-template-columns: repeat(1, 1fr);
